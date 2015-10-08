@@ -1,0 +1,5 @@
+Programming interests me for a number of reasons. For one, it's quickly becoming the universal language of our world. For another, I'm a little obsessed with grammar, and programming feels like learning grammar for a whole new language. I'm interested in the ways in which the creative and the logical sides of programming interact. We're so often told the two areas have nothing in common, and I always like to see instances of that idea breaking down. This is probably why I so enjoy diagramming sentences.
+
+I'm also fascinated by the logic side of programming. I love to work out logical puzzles, and having the end result of that be something you can actually see is hugely appealing to me.
+
+I've had a fairly limited exposure to programming so far in my life, but I have been trying more and more to accomplish web-based tasks from the html side rather than the rich text side.  It's always satisfying when I can't get something to work in rich text, but I open up the html and fix it right in the code, and my problem is fixed.
